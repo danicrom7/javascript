@@ -27,7 +27,11 @@ function dividir(a,b){
 
 }
 
-
+//function sumarDobles (a=0, b=0){
+//a *= 2;
+//b *= 2;
+//return a+b;
+//}
 
 
 function main(){
