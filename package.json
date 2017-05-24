@@ -1,0 +1,25 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danicrom7/javascript.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "daniel garcia lindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danicrom7/javascript/issues"
+  },
+  "homepage": "https://github.com/danicrom7/javascript#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
